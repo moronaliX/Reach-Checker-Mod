@@ -4,7 +4,7 @@
 ## 📥 Download
 
 ### Latest Version
-➡ [Download Latest](https://github.com/moronaliX/Reach-Checker-Mod/blob/main/reach-checker-mod-1.2.1.jar)
+➡ [Download Latest]([https://github.com/moronaliX/Reach-Checker-Mod/blob/main/reach-checker-mod-1.2.1.jar](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/refs/heads/main/reach-checker-mod-1.2.1.jar))
 
 ---
 
