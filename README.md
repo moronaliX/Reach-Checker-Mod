@@ -24,9 +24,9 @@ Version's
 
 ➡ [Download V1.21.9](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/bbaf39d49bd88d7d0ce792e4eb7d04d3ff9cbe72/F/F/F/F/F/F/Mod/Reach%20Checker%201.21.9.jar)
 
-➡ [Download V1.21.9](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/bbaf39d49bd88d7d0ce792e4eb7d04d3ff9cbe72/F/F/F/F/F/F/Mod/Reach%20Checker%201.21.10.jar)
+➡ [Download V1.21.10](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/bbaf39d49bd88d7d0ce792e4eb7d04d3ff9cbe72/F/F/F/F/F/F/Mod/Reach%20Checker%201.21.10.jar)
 
-➡ [Download V1.21.9](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/bbaf39d49bd88d7d0ce792e4eb7d04d3ff9cbe72/F/F/F/F/F/F/Mod/Reach%20Checker%201.21.11.jar)
+➡ [Download V1.21.11](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/bbaf39d49bd88d7d0ce792e4eb7d04d3ff9cbe72/F/F/F/F/F/F/Mod/Reach%20Checker%201.21.11.jar)
 
 # Shanshot...
 
