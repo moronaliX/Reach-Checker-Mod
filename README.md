@@ -4,6 +4,8 @@
 
 Version's 
 ---
+➡ [Download V1.21.11](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/refs/heads/main/Reach-Checker-1.21.11.jar)
+
 ➡ [Download V1.21.10](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/refs/heads/main/Reach-Checker-1.21.10.jar)
 
 ➡ [Download V1.21.9](https://raw.githubusercontent.com/moronaliX/Reach-Checker-Mod/refs/heads/main/Reach-Checker-1.21.9.jar)
